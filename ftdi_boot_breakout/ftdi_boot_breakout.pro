@@ -1,4 +1,4 @@
-update=Thu 28 Dec 2017 10:57:40 PM CST
+update=Fri 12 Jan 2018 09:09:52 PM CST
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,9 +25,19 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=project_outputs_12_27_2017/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
-LibDir=
+LibDir=../connex_kicad_libs/sch_libs
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -70,13 +80,3 @@ LibName38=/home/birdman/Documents/projects/ConnexPCB/ftdi_boot_breakout/connex_k
 LibName39=/home/birdman/Documents/projects/ConnexPCB/ftdi_boot_breakout/connex_kicad_libs/sch_libs/connex_mosfets
 LibName40=/home/birdman/Documents/projects/ConnexPCB/ftdi_boot_breakout/connex_kicad_libs/sch_libs/connex_Resistor
 LibName41=/home/birdman/Documents/projects/ConnexPCB/ftdi_boot_breakout/connex_kicad_libs/sch_libs/connex_test
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=project_outputs_12_27_2017/
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
