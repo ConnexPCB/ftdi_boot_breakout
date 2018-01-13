@@ -1,4 +1,4 @@
-update=Thu 28 Dec 2017 09:20:32 PM CST
+update=Thu 28 Dec 2017 10:57:40 PM CST
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,6 +23,8 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=
@@ -56,5 +58,25 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-[general]
+LibName30=/home/birdman/Documents/projects/ConnexPCB/ftdi_boot_breakout/connex_kicad_libs/sch_libs/connex_capacitors
+LibName31=/home/birdman/Documents/projects/ConnexPCB/ftdi_boot_breakout/connex_kicad_libs/sch_libs/connex_captouch
+LibName32=/home/birdman/Documents/projects/ConnexPCB/ftdi_boot_breakout/connex_kicad_libs/sch_libs/connex_connector
+LibName33=/home/birdman/Documents/projects/ConnexPCB/ftdi_boot_breakout/connex_kicad_libs/sch_libs/connex_device
+LibName34=/home/birdman/Documents/projects/ConnexPCB/ftdi_boot_breakout/connex_kicad_libs/sch_libs/connex-diode
+LibName35=/home/birdman/Documents/projects/ConnexPCB/ftdi_boot_breakout/connex_kicad_libs/sch_libs/connex_ic_lineartech
+LibName36=/home/birdman/Documents/projects/ConnexPCB/ftdi_boot_breakout/connex_kicad_libs/sch_libs/connex_IC_SILABS
+LibName37=/home/birdman/Documents/projects/ConnexPCB/ftdi_boot_breakout/connex_kicad_libs/sch_libs/connex-Inductor
+LibName38=/home/birdman/Documents/projects/ConnexPCB/ftdi_boot_breakout/connex_kicad_libs/sch_libs/connex_led
+LibName39=/home/birdman/Documents/projects/ConnexPCB/ftdi_boot_breakout/connex_kicad_libs/sch_libs/connex_mosfets
+LibName40=/home/birdman/Documents/projects/ConnexPCB/ftdi_boot_breakout/connex_kicad_libs/sch_libs/connex_Resistor
+LibName41=/home/birdman/Documents/projects/ConnexPCB/ftdi_boot_breakout/connex_kicad_libs/sch_libs/connex_test
+[schematic_editor]
 version=1
+PageLayoutDescrFile=
+PlotDirectoryName=project_outputs_12_27_2017/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
